@@ -1,16 +1,42 @@
-# React + Vite
+# ANFAS K
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+BCA student specializing in Artificial Intelligence & Machine Learning, with a focus on full-stack web development.
 
-Currently, two official plugins are available:
+## Background
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- **Degree:** BCA (AI & Machine Learning specialization), Semester 2
+- **College:** Mentor Engineering College, Muvattupuzha, Kerala (KTU affiliated)
+- **Focus:** Freelance full-stack web development, with additional experience in videography and content production
 
-## React Compiler
+## Skills
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Full-stack web application development
+- Database design and integration
+- UI/UX implementation with modern frontend frameworks
+- Documentation and technical report writing
+- Videography and content editing
 
-## Expanding the ESLint configuration
+## Programming Languages
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+`Python` `JavaScript` `Java` `SQL`
+
+## Technologies
+
+ `Node.js` `Supabase`  `MySQL` `Git / GitHub`
+
+## Previous Projects
+
+
+- **LocalDealz** — A local deals discovery platform that helps users find nearby shop offers, discounts, and business promotions with location-based search and store details.
+- **Mentora AI** — An AI-powered educational assistant platform designed to support students with learning guidance, doubt solving, and interactive academic assistance.
+- **BillSwift** — A mobile billing application supporting UPI QR payments, shop management, and sub-user roles.
+
+## Tech Stack Used in Projects
+
+React, Node.js, Supabase, Tailwind CSS, SQLite, MySQL, and Python form the core stack across these projects, selected for rapid development without compromising scalability.
+
+## Areas of Interest
+
+- Building production-grade full-stack applications
+- Freelance and contract-based software development
+- Foundational cybersecurity concepts
