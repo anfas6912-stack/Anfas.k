@@ -1,40 +1,16 @@
-# Anfas k
+# React + Vite
 
-BCA student specializing in Artificial Intelligence & Machine Learning, with a focus on full-stack web development.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## Background
+Currently, two official plugins are available:
 
-- **Degree:** BCA (AI & Machine Learning specialization), Semester 2
-- **College:** Mentor Engineering College, Muvattupuzha, Kerala (KTU affiliated)
-- **Focus:** Freelance full-stack web development.
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-## Skills
+## React Compiler
 
-- Full-stack web application development
-- Database design and integration
-- UI/UX implementation with modern frontend frameworks
-- Documentation and technical report writing
-- Videography and content editing
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Programming Languages
+## Expanding the ESLint configuration
 
-`Python` `JavaScript` `Java` `SQL`
-
-## Technologies
-
- `Node.js` `Supabase`  `MySQL` `Git / GitHub`
-
-## Previous Projects
-- **LocalDealz** — A local business promotion platform that helps users discover nearby shops, services, and special offers while enabling businesses to showcase discounts, promotions, and essential business information.
-- **Mentora AI** — An AI-powered virtual assistant designed to provide instant support, answer queries, assist with learning, and enhance productivity through intelligent and interactive conversations.
-- **BillSwift** — A mobile billing application supporting UPI QR payments, shop management, and sub-user roles.
-
-## Tech Stack Used in Projects
-
-React, Node.js, Supabase, Tailwind CSS, SQLite, MySQL, and Python form the core stack across these projects, selected for rapid development without compromising scalability.
-
-## Areas of Interest
-
-- Building production-grade full-stack applications
-- Freelance and contract-based software development
-- Foundational cybersecurity concepts
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
